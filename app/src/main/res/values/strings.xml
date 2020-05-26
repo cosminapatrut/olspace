@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">OLSpace</string>
+    <string name="title_activity_globe">GlobeActivity</string>
+    <string name="satellite_finder">Satellite Finder</string>
+    <string name="live_earth_map">Live Satellite Map</string>
+    <string name="ar_display">SkyCatcher</string>
+    <string name="biss_key_finder">Top scores</string>
+    <string name="top_scores">Top scores</string>
+    <string name="title_activity_ar">ARActivity</string>
+</resources>
